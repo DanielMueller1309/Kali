@@ -43,3 +43,6 @@ listet alle hosts aus dem __db_nmap__ scan auf
 
 `services`
 listet alle erkannten services aus dem __db_nmap__ scan auf
+
+`creds`
+Listet anmeldeinormationen auf
